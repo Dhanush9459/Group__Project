@@ -87,7 +87,7 @@ Result:
 Sri clicks on the result, excited about the prospect of savoring DJ's flavorful dishes at home. Sri anticipates a convenient pickup experience for a relaxing evening.
 
 Title: 
-Making a Reservation Call to DJ's
+Making a Reservation Call to DJ's.
 
 Action: 
 Sri is planning a special celebration and wants to make a reservation at DJ's Soul Kitchen. Sri searches for "DJ's Soul Kitchen reservation phone number."

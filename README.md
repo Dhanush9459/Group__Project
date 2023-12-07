@@ -12,7 +12,7 @@
 | Nov 28, 2023|    X            |        X          |      X            |
 | Nov 30, 2023|    X            |        X          |      X            |
 | Dec 5, 2023 |   X             |        X           |     X             |
-| Dec 7, 2023 |    X            |                  |       X            |
+| Dec 7, 2023 |    X            |        X         |       X            |
 | Dec 12, 2023|                |                  |                  |
 
 Figma design idea 1:

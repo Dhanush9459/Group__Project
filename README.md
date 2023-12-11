@@ -17,8 +17,4 @@
 
 Figma design idea 1:
 
-![Screenshot of the figma1](design1.png)
-
-Figma design idea 2:
-
-![Screenshot of the figma2](design2.jpeg)
+![Screenshot of the figma1](Figma.png)

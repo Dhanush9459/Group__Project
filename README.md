@@ -15,10 +15,6 @@
 | Dec 7, 2023 |    X            |        X         |       X            |
 | Dec 12, 2023|                |                  |                  |
 
-Figma design idea 1:
+Figma design :
 
-![Screenshot of the figma1](design1.png)
-
-Figma design idea 2:
-
-![Screenshot of the figma2](design2.jpeg)
+![Screenshot of the figma1](Figma.png)

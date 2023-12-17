@@ -17,4 +17,4 @@
 
 Figma design :
 
-![Screenshot of the figma1](Figma.png)
+![Screenshot of the figma1]()

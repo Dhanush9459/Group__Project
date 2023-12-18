@@ -1,9 +1,9 @@
+import { Button } from "@nextui-org/react";
 import Link from "next/link";
 import React, { useState } from "react";
 import { BsThreeDotsVertical } from "react-icons/bs";
 import OutsideClickHandler from "react-outside-click-handler";
 import CookieBanner from "./Cookiebanner";
-import { Button } from "@nextui-org/react";
 
 const NavigationFooter: React.FC = () => {
   const [isMenu, setIsMenu] = useState<boolean>(false);
@@ -31,7 +31,7 @@ const NavigationFooter: React.FC = () => {
             </Link>
           </li>
           <li>
-            <Link href="">
+            <Link href="http://eepurl.com/iF-jpY">
               <span className="h-[48px] font-medium text-[14px] cursor-pointer rounded-[100px] flex items-center justify-center p-[26px] ml-[94px] text-white bg-black uppercase">SIGN UP</span>
             </Link>
           </li>

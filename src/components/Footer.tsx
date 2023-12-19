@@ -20,7 +20,7 @@ const Footer = () => {
           </li>
          
           <li className="mb-[16px] text-[16px] text-white text-opacity-50 cursor-pointer">
-            <Link href="/shop">Services</Link>
+            <Link href="/shop">Services.</Link>
           </li>
         </ul>
       </div>

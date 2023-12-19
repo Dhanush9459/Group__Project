@@ -58,7 +58,7 @@ export default function BookATable() {
                 className="mt-[48px]"
               >
   <div className="text-white text-opacity-50 text-[16px]" style={{ color: "white", fontSize: "20px" }}>
-  Send us a brief message for any questions or to get in touch with Soul Kitchen.<br /><br />
+  Send us a brief message for any questions or to get  touch with Soul Kitchen.<br /><br />
 </div>
 
 <div className="text-[16px]" style={{ color: "#FFD475", fontSize: "20px" }}>

@@ -7,9 +7,10 @@ export default function Menu() {
   return (
     <>
       <Head>
-        <title>Restaurant Soul Kitchen</title>
+        <title>.Restaurant Soul Kitchen.</title>
+        
       </Head>
-
+      
       <main className="min-h-screen relative overflow-hidden">
         <MenuSection />
       </main>

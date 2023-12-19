@@ -20,7 +20,7 @@ export default function Restaurant() {
 
           <div className="w-full flex flex-col items-center">
             <h2 className="text-[#FACE8D] font-dancing text-[50px] md:text-[80px] leading-none">
-              Welcome to 
+              Welcome  to 
             </h2>
             <h2 className="font-medium text-[55px] md:text-[80px] lg:text-[130px] leading-none">
               Soul Kitchen

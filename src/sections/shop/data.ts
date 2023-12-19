@@ -9,7 +9,7 @@ const data: {
     id: 1,
     title: "C A T E R I N G",
     description:
-      "At Soul Kitchen we pride ourselves on fresh flavours coupled with impeccable service.Please call us for further enquiry.",
+      "At Soul Kitchen we pride ourselves on fresh flavours coupled with impeccable services.Please call us for further enquiry.",
     price: "",
     logoBg: "",
   },

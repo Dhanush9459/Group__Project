@@ -32,7 +32,7 @@ const NavigationFooter: React.FC = () => {
           </li>
           <li>
             <Link href="http://eepurl.com/iF-jpY">
-              <span className="h-[48px] font-medium text-[14px] cursor-pointer rounded-[100px] flex items-center justify-center p-[26px] ml-[94px] text-white bg-black uppercase">SIGN UP</span>
+              <span className="h-[48px] font-medium text-[14px] cursor-pointer rounded-[100px] flex items-center justify-center p-[26px] ml-[94px] text-white bg-black uppercase">SIGN-UP</span>
             </Link>
           </li>
         </ul>

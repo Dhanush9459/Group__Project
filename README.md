@@ -1,15 +1,24 @@
 # Group__Project
 
 Project link : https://group-project-itxd.vercel.app/
+
 Repository : https://github.com/JyothsnaLade9/Group__Project.git
+
 Figma link :
 https://www.figma.com/file/55l2JCeCJnoo2aLj5vg1gv/soul-kitchen?type=design&mode=design&t=svSMlvpyNJj MsSiF-1
+
 Document links:
+
 [Soul.Kitchen.pdf](https://github.com/JyothsnaLade9/Group__Project/files/13719572/Soul.Kitchen.pdf)
+
 [customerpersona.md](https://github.com/JyothsnaLade9/Group__Project/files/13719580/customerpersona.md)
+
 [customerjourney.md](https://github.com/JyothsnaLade9/Group__Project/blob/main/customerjourney.md)
+
 [competitive analysis](https://github.com/JyothsnaLade9/Group__Project/blob/main/competitive%20analysis.md)
+
 [swot analysis](https://github.com/JyothsnaLade9/Group__Project/blob/main/swot.md)
+
 [user stories](https://github.com/JyothsnaLade9/Group__Project/blob/main/userstories.md)
 
 
